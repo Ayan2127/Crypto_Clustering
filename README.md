@@ -1,6 +1,6 @@
 # Crypto_Clustering
 
-In this assignment, I explore the impact of different feature sets and dimensionality reduction techniques (PCA) on the effectiveness of K-means clustering for grouping cryptocurrencies.  Additionally, I determine optimal k values, interpret the outcomes of the clustering process, and reflect on the impact of using fewer features (PCA) for clustering compared to the original data. 
+In this assignment, I explore the role of PCA on the effectiveness of K-means clustering for grouping cryptocurrencies. I also determine optimal k values, interpret the outcomes of the clustering process, and reflect on the impact of using fewer features via PCA for clustering compared to the original data.
 
 
 
