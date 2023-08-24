@@ -1,6 +1,6 @@
 # Crypto_Clustering
 
-In this assignment, I explore the role of PCA on the effectiveness of K-means clustering for grouping cryptocurrencies. Additionally, I investigate optimal k values that better represent the data, interpret the outcomes of the grouping process (clusters), and reflect on the positive impact of using fewer features via PCA for clustering instead of the full features provided in the original dataset.
+In this assignment, I explore the role of PCA on the effectiveness of K-means clustering for grouping cryptocurrencies. Additionally, I investigate optimal k values that better represent the data, interpret the outcomes of the grouping process (clusters), and reflect on the positive impact of using fewer features via PCA for clustering instead of the full features provided in the original dataset. Please refer to IPYNB file for additional details.
 
 
 
