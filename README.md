@@ -21,6 +21,8 @@ In this assignment, I explore the impact of different feature sets and dimension
 
 
 
-Methods: StandardScaler, Elbow Curve, K-Means, Hvplot & Principal Component Analysis, 
+Methods: StandardScaler, Elbow Curve, K-Means, Hvplot & Principal Component Analysis
+
+
 Tools: Jupyter Notebook
 
